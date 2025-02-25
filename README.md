@@ -17,4 +17,4 @@ This PowerShell script provides an interactive menu to scan and harden Windows S
 ## Installation
 1. Download the script:
    ```powershell
-   Invoke-WebRequest -Uri "https://raw.githubusercontent.com/your-repo/smb-hardening/main/smb-hardening.ps1" -OutFile "smb-hardening.ps1"
+   Invoke-WebRequest -Uri "https://raw.githubusercontent.com/irawanhd/smb-hardening/main/smb-hardening.ps1" -OutFile "smb-hardening.ps1"
